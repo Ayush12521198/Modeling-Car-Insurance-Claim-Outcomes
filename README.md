@@ -77,7 +77,3 @@ The data comes from a single CSV file:
 5. Modify the modeling approach to test combinations of features or alternative algorithms (e.g., decision trees)
 
 ---
-
-## ✍️ Author
-
-Project by **Achraf Salimi** — part of an ongoing journey to build and showcase data science skills for real-world business impact.
